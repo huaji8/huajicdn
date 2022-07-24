@@ -22,7 +22,7 @@
     // of different video formats to add
     src: [
       {
-        src: 'https://webstatic.m ihoyo.com/upload/static-resource/2021/08/30/2124d8b2c9a3543660acf53acd16f83c_3148858834240991057.mp4',
+        src: 'https://webstatic.mihoyo.com/upload/static-resource/2021/08/30/2124d8b2c9a3543660acf53acd16f83c_3148858834240991057.mp4',
         type: 'video/mp4'
       },
       {
